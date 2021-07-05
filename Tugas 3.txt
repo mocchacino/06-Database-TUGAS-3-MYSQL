@@ -1,0 +1,15 @@
+1. 	X : Cross-platform
+	A : Apache Server
+	M : MariaDB
+	P : PHP
+	P : Perl
+
+2. menu START > All Programs > XAMPP > XAMPP Control Panel
+
+3. MySQL
+
+4. Ketikan alamat http://localhost dan tekan tombol enter pada browser kemudian pilih phpMyAdmin di pojok kanan atas
+atau
+langsung mengetikkan alamat http://localhost/phpmyadmin pada browser dan tekan tombol enter
+
+5. Pastikan MySQL Server sudah berjalan > buka cmd > c:\xampp\mysql\bin\mysql -u root
